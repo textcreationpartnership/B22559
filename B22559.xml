@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of caution to all Friends professing the blessed truth to prevent injustice and injury, and the reproach thereof in divers matters herein mentioned.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22559</idno><idno type="EEBO-CITATION">99827902</idno>
+  <idno type="VID">207634</idno>
+  <idno type="EEBO-PROQUEST">2240864317</idno>
+  
+            <idno type="STC">Wing E3164A</idno>
+            <idno type="PROQUEST">99827902</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827902e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1924:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of caution to all Friends professing the blessed truth to prevent injustice and injury, and the reproach thereof in divers matters herein mentioned.</title>
+               </titleStmt>
+               <extent>23,[1]p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tace Sowle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207634:1"/>
+            <pb facs="tcp:207634:1"/>
+            <p> AN EPISTLE OF CAUTION To all Friends Professing the <hi>Blessed Truth;</hi> To Prevent Injustice and Injury, And the Reproach thereof in divers Matters herein Mentioned.</p>
+            <q>
+               <bibl>Rom. 13. 8.</bibl>
+               <p>
+                  <hi>Owe no Man any thing, but to love one another: For be that loveth another, hath fulfilled the Law.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tace Sowle,</hi> 1698.</p>
+            <pb facs="tcp:207634:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:207634:2"/>
+            <head>AN EPISTLE OF Caution, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>IN the Love of the Pretious and Holy <hi>Truth,</hi> in a Conscienti<g ref="char:EOLhyphen"/>ous Concern for the Honour of God, and in a Christian Care, that the <hi>Ancient Repute,</hi> that our Holy Religion hath obtained by the <hi>Just Dealing, Ʋpright Walking, Circumspect</hi> and <hi>Inoffensive Conver<g ref="char:EOLhyphen"/>sation</hi> of those that have not only professed the Truth, but loved and obeyed it, and were Careful in their <hi>Words, Habit, Living, Furni<g ref="char:EOLhyphen"/>ture, Commerce</hi> and whole <hi>Conver<g ref="char:EOLhyphen"/>sation</hi>
+               <pb n="4" facs="tcp:207634:3"/> to preserve the same, by an<g ref="char:EOLhyphen"/>swering in all those things that Righteous and Holy <hi>Principle</hi> of <hi>Truth,</hi> and <hi>Witness,</hi> that God hath placed in the Consciences of all Mankind, notwithstanding the Scorn and great Sufferings they met withal.</p>
+            <p>But, to our great Grief, we have found, that some (especially of late times) which make Profes<g ref="char:EOLhyphen"/>sion of the Worthy Name of our Lord Jesus Christ amongst us, have not had that due Regard thereunto, and the Honour there<g ref="char:EOLhyphen"/>of, as they ought, nor have been so Careful, as becomes them, in the Management of themselves, and their <hi>Affairs</hi> and <hi>Trade</hi> in the World; but have <hi>Inconsiderately</hi> and <hi>Ʋnadvisedly</hi> over-charged them<g ref="char:EOLhyphen"/>selves with <hi>Debts,</hi> till they could not duly and justly discharge them, and by Neglecting their <hi>Affairs</hi> and
+<pb n="5" facs="tcp:207634:3"/>
+               <hi>Trade,</hi> and being too Extravagant in their <hi>Habits, Furniture</hi> of their <hi>Houses,</hi> and <hi>Living</hi> too high, and above what their Income would answer, and than becometh their Profession; and thereby have hurt themselves: And for want of a <hi>Due</hi> and <hi>Timely Inspection</hi> into the <hi>State</hi> of their <hi>Affairs,</hi> or Stopping, when they have been Sensible of their own <hi>Inability,</hi> have gone on, till they have been under such Straights and Difficulties to satis<g ref="char:EOLhyphen"/>fie their <hi>Creditors</hi> just Demand in due time, and that when they have come for Money, to put them off, have given them Ex<g ref="char:EOLhyphen"/>pectations; and sometimes (when pressed hard upon) made <hi>Promises</hi> to <hi>Pay</hi> within sometime Limited, and yet have not performed. And these things have been, and are attended with Evil Consequences, not only to the Persons them<g ref="char:EOLhyphen"/>selves,
+<pb n="6" facs="tcp:207634:4"/> but greatly Injurious to many others, and have been Oc<g ref="char:EOLhyphen"/>casion of <hi>Stumbling</hi> and <hi>Offence,</hi> and have also brought <hi>Dishonour</hi> to <hi>Truth,</hi> and a <hi>Reproach</hi> upon Us, and a <hi>Scandal</hi> upon our Holy Pro<g ref="char:EOLhyphen"/>fession and Religion.</p>
+            <p>Wherefore it is our Tender <hi>Coun<g ref="char:EOLhyphen"/>sel</hi> and Christian <hi>Advice,</hi> in the Love of God, that all would truly Weigh and duly Consider these things, and Examine themselves with the <hi>Light</hi> of the <hi>Lord Jesus Christ,</hi> that each one may see, how things are with them; <hi>For they that do well, love the Light, and bring their Deeds to it, that they may see, they are wrought in God;</hi> but those that do <hi>Evil, hate the Light:</hi> And it's those, that with <hi>Grief</hi> we do declare unto you, that by walking contrary to what they profess, in not keeping under the Guidance of the good Spi<g ref="char:EOLhyphen"/>rit of the Lord, and not learning
+<pb n="7" facs="tcp:207634:4"/> of, or being seasoned with the Grace of God, they run into these things.</p>
+            <p n="1">1. Therefore we Exhort and Counsel all to be Careful, not to launch out into <hi>Trade,</hi> beyond what they can honourably and punctually Answer, and without Injury to others.</p>
+            <p n="2">2. That no one keep another out of their <hi>Just Debt</hi> to their Prejudice, beyond the <hi>usual Time</hi> of <hi>Payment,</hi> be the Time what it will they agree to pay at, they ought to be exact to it.</p>
+            <p n="3">3. That every Faithful and Ho<g ref="char:EOLhyphen"/>nest <hi>Friend,</hi> that knows any Re<g ref="char:EOLhyphen"/>puted <hi>Friend,</hi> or <hi>Professor</hi> of the Truth among us <hi>faulty</hi> in any of these things afore-named, or any other thing unbecoming Truth, or our Christian Profession, that such Friend, that knows thereof, in Brotherly Love and Tenderness
+<pb n="8" facs="tcp:207634:5"/> do privately speak to him or her thereof, and <hi>Counsel, Admonish</hi> and <hi>Reprove</hi> the Person offending, as the Case requires; and if he or she doth not hear and amend, then to take <hi>One</hi> or <hi>Two</hi> more, and speak to him or her again; and if he or she refuses to hear them, that then such <hi>Friend</hi> or <hi>Friends</hi> acquaint the <hi>Monthly-Meeting,</hi> where the party belongs, or such <hi>Friends</hi> thereof, that are appointed by the <hi>Monthly-Meeting</hi> to hear such things in the <hi>Intervals</hi> of <hi>Monthly-Meetings,</hi> that they may speedily call a <hi>Meeting;</hi> and the said <hi>Meeting</hi> to do and advise, as in the Wisdom of God they shall see the Case requires.</p>
+            <p n="4">4. And we do <hi>Advise</hi> and <hi>Coun<g ref="char:EOLhyphen"/>sel</hi> all <hi>Friends,</hi> as they tender their own Good, the Honour of Truth, and Preservation of our Holy Pro<g ref="char:EOLhyphen"/>fession without Blame, to <hi>Inspect their outward Affairs, at least once</hi>
+               <pb n="9" facs="tcp:207634:5"/>
+               <hi>(or oftner) in a Year,</hi> that they may know, how the Case stands with them, and to order and manage themselves accordingly. For by Experience we have found, that a frequent Examination of our selves, and Inspection of things relating to our outward and inward States and Conditions, with the Light of Christ, hath proved greatly bene<g ref="char:EOLhyphen"/>ficial, as we have diligently waited upon God, and humbly made our <hi>Supplication</hi> to him in the Spirit of his Son. And we have observed, that it's those, that have declined in their Love and Obedience to Christ, and the due Observation of his <hi>Equal</hi> and <hi>Royal Law</hi> (which saith, <hi>Thou shalt love thy Neigh<g ref="char:EOLhyphen"/>bour as thy self,</hi> James 2. 8. And, <hi>Whatsoever ye would that Men should do to you, even so do ye to them,</hi> Mat. 7. 12.) that have not proved Faithful in the unrighteous <hi>Mam<g ref="char:EOLhyphen"/>mon.</hi>
+               <pb n="10" facs="tcp:207634:6"/> And as Christ said, <hi>Luke</hi> 16. 12. <hi>If ye have not been faithful in that which is anotber Man's, who shall give you that which is your own?</hi>
+            </p>
+            <p n="5">5. If therefore any upon Exa<g ref="char:EOLhyphen"/>mination find themselves in such a <hi>declining Condition,</hi> that they can but barely pay their just <hi>Debts,</hi> or fully satisfie for the same; that such immediately advise with <hi>Two</hi> or <hi>Three</hi> faithful <hi>Friends</hi> of the <hi>Month<g ref="char:EOLhyphen"/>ly-Meeting,</hi> to which he or she belongs, and make his or her Case known to them, and take their <hi>Ad<g ref="char:EOLhyphen"/>vice</hi> therein.</p>
+            <p n="6">6. And if any Person shall be so Unjust, to persist and go on, after he knows himself to be in a <hi>declining Condition,</hi> and afterwards <hi>Break,</hi> and cannot pay <hi>Twenty Shil<g ref="char:EOLhyphen"/>lings</hi> in the <hi>Pound,</hi> or fully satisfie his <hi>Creditors,</hi> he or they so wilfully and knowingly persisting, till their Circumstances are such as afore<g ref="char:EOLhyphen"/>said,
+<pb n="11" facs="tcp:207634:6"/> such Persons for their persist<g ref="char:EOLhyphen"/>ing without the Consent or Liber<g ref="char:EOLhyphen"/>ty of their <hi>Creditors,</hi> and Contrary to the righteous and equal Princi<g ref="char:EOLhyphen"/>ple of <hi>Truth</hi> in themselves, and to our Christian Advice; we can<g ref="char:EOLhyphen"/>not esteem them <hi>Friends</hi> of <hi>Truth,</hi> or afford them any <hi>Assistance,</hi> as such; but must be necessitated (if they do not repent thereof, and sensibly acknowledge their Fault) to <hi>Testify</hi> against them, as <hi>Enemies</hi> to <hi>Truth.</hi>
+            </p>
+            <p n="7">7. And for the Prevention of these things, and the ill Effects that follow (and that all that walk not according to Truth in their Con<g ref="char:EOLhyphen"/>versations, may be visited and ad<g ref="char:EOLhyphen"/>monished) we hereby signify, that we have recommended to the se<g ref="char:EOLhyphen"/>veral <hi>Monthly-Meetings,</hi> in the Love of Christ to watch over all their <hi>Members,</hi> in and belonging to their respective <hi>Monthly-Meetings;</hi> and
+<pb n="12" facs="tcp:207634:7"/> to take Care, to appoint some faith<g ref="char:EOLhyphen"/>ful <hi>Friends</hi> in each <hi>Meeting</hi> to Visit them, and to endeavour, that this our Brotherly <hi>Advice</hi> and Chri<g ref="char:EOLhyphen"/>stian <hi>Care</hi> for the Honour of God, his holy Name and precious Truth may be duly observed, and made effectual to the Good Ends propo<g ref="char:EOLhyphen"/>sed; and that all may be Orderly in their whole Conversation, that so none among us may over-charge themselves with <hi>Debts,</hi> nor <hi>Trade</hi> beyond their <hi>Abilities,</hi> but keep Clear from Injuring others, or Ad<g ref="char:EOLhyphen"/>venturing or Hazzarding <hi>others E<g ref="char:EOLhyphen"/>states</hi> to <hi>Sea,</hi> or otherwise, when they have not <hi>Estates</hi> of <hi>their own</hi> to answer. And also that <hi>Friends</hi> be Careful to perform all their <hi>Promises, Obligations</hi> and <hi>Con<g ref="char:EOLhyphen"/>tracts,</hi> and make payment of Just <hi>Debts,</hi> and not tediously delay or keep back the <hi>Hire</hi> of <hi>Labourers</hi> and <hi>Manufactures,</hi> beyond the time
+<pb n="13" facs="tcp:207634:7"/> appointed for Payment, and there<g ref="char:EOLhyphen"/>by give them Just Cause of <hi>Com<g ref="char:EOLhyphen"/>plaint</hi> of great <hi>Injury</hi> and <hi>Oppression,</hi> Oh Consider, what the Apostle <hi>James</hi> saith, <hi>The Hire of the Labourers, which</hi>
+               <note place="margin">James 5. 4. <hi>See also,</hi> Levit. 19. 13. Deut. 24. 14.</note>
+               <hi>is kept back by Fraud, crieth, and the cries of them are entred into the Ears of the</hi> LORD <hi>of Sabath.</hi>
+            </p>
+            <p>And therefore, let all be Careful to Avoid such things, and living above what their <hi>Estates</hi> will bear (by keeping <hi>Horses</hi> and <hi>Country-Houses,</hi> whereby great <hi>Wast</hi> is made by <hi>Loss</hi> of <hi>Time</hi> and <hi>Neglect</hi> of <hi>Business.)</hi> For <hi>Pride</hi> (as the Wise-man said) <hi>goes before Destru<g ref="char:EOLhyphen"/>ction, and a haughty Spirit before the Fall:</hi> And we have seen it fulfil<g ref="char:EOLhyphen"/>led upon some, that have gone thereinto, and have for a time appeared as great, nay higher in their beginning, than many o<g ref="char:EOLhyphen"/>thers
+<pb n="14" facs="tcp:207634:8"/> have done, when they have left off, who (by their Honest En<g ref="char:EOLhyphen"/>deavours) have gotten <hi>Estates:</hi> But such have often ended with a <hi>Stink</hi> and <hi>Reproach.</hi>
+            </p>
+            <p>And this hath happened, be<g ref="char:EOLhyphen"/>cause they have not walked in that <hi>Humility</hi> and <hi>Fear</hi> towards <hi>God;</hi> which all that would attain <hi>True Riches, Honour</hi> and <hi>Life,</hi> and be made partakers of his Blessing, must dwell in. And it is not only the <hi>Duty,</hi> but <hi>Interest</hi> of every one of us, that would do well here, and be happy hereafter, to Abide in the holy <hi>Fear</hi> of <hi>God,</hi> and walk according to his Righteous Law in all things; that those <hi>Reproaches</hi> and <hi>Scandals,</hi> that have of late been brought in a great Degree upon the <hi>Truth, Ʋs,</hi> and our holy <hi>Pro<g ref="char:EOLhyphen"/>fession,</hi> thereby may for the future be prevented.</p>
+            <p>And it's Advised, That Friends
+<pb n="15" facs="tcp:207634:8"/> be Careful to observe the <hi>Time</hi> Agreed upon to <hi>Meet</hi> together for the Worship of God, as the <hi>Quar<g ref="char:EOLhyphen"/>terly-Meeting</hi> hath recommend<g ref="char:EOLhyphen"/>ed to us (held the 3<hi>d</hi> the of <hi>11th</hi> Month, 1697.) which is as follow<g ref="char:EOLhyphen"/>eth.</p>
+            <p>
+               <q rend="margQuotes">That Friends take Care to At<g ref="char:EOLhyphen"/>tend the <hi>First-days</hi> and <hi>Week-days-Meetings</hi> at the Usual times appointed, <hi>viz.</hi> About the <hi>9th hour</hi> in the <hi>Morning,</hi> as near as they can, and in the <hi>Winter-Season</hi> about the 2<hi>d hour</hi> in the <hi>Afternoon;</hi> and in the <hi>Summer<g ref="char:EOLhyphen"/>time,</hi> when the Days are long, about the 3<hi>d hour</hi> in the <hi>After<g ref="char:EOLhyphen"/>noon,</hi> on those Days, which are not <hi>First-days.</hi>
+               </q>
+            </p>
+            <p>And as they are truly Diligent to answer that <hi>Christian Advice, not to forsake the Assembling of them<g ref="char:EOLhyphen"/>selves together;</hi> and when met, Re<g ref="char:EOLhyphen"/>verently and in <hi>Fear</hi> and <hi>Humility</hi>
+               <pb n="16" facs="tcp:207634:9"/> Wait upon the Lord in the Gift of his holy Spirit, all will be made sensible of their <hi>Inward States</hi> and <hi>Conditions;</hi> and as they are Exerci<g ref="char:EOLhyphen"/>sed in a Christian Travel of Spirit, and supplicate God in the Spirit of his Son, to help them and sup<g ref="char:EOLhyphen"/>ply their Wants, they may be en<g ref="char:EOLhyphen"/>abled to walk in <hi>Obedience</hi> to <hi>Truth,</hi> and be endued with the <hi>Wisdom</hi> thereof to order their Affairs with <hi>Discretion;</hi> the Want whereof hath been one great <hi>Cause,</hi> that some have gone into those things, which we herein caution against. For those, that have neglected their Christian <hi>Duty</hi> of <hi>Meeting</hi> together to Wait upon God, and Worship and Serve him, have often not well spent their Time, but misspent it.</p>
+            <pb n="17" facs="tcp:207634:9"/>
+            <p> So in the Love and Service of Truth (greatly desiring, all things herein advised may be duly obser<g ref="char:EOLhyphen"/>ved and practised) we Remain</p>
+            <closer>
+               <dateline>Sign'd on behalf of the Friends and Bre<g ref="char:EOLhyphen"/>thren of the <hi>Six-weeks-Meeting</hi> held in <hi>London</hi>
+                  <date>the <hi>29th</hi> of the <hi>1st</hi> Month, 1698.</date>
+               </dateline>
+               <signed>Your Friends and Brethren
+<list>
+                     <item>Francis Camfield,</item>
+                     <item>William Chandler,</item>
+                     <item>John Harwood,</item>
+                     <item>William Ingram,</item>
+                     <item>William Beech,</item>
+                     <item>John Constantine,</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="18" facs="tcp:207634:10"/>
+            <head>Postscript.</head>
+            <p>AND <hi>Dear Friends</hi> and <hi>Bre<g ref="char:EOLhyphen"/>thren,</hi> that are <hi>Heads</hi> and <hi>Masters</hi> of <hi>Families,</hi> we tenderly Exhort you, in true Brotherly Love, that ye may be Examples in all things in your Families, and faithfully and in good Conscience discharge your Duty in the <hi>Place</hi> and <hi>Station</hi> you are in, as such that know, you are Accountable unto God, and are desirous to give up your Account with Joy, and not with Grief. Oh Therefore wait up<g ref="char:EOLhyphen"/>on God, and pray to him for Wis<g ref="char:EOLhyphen"/>dom, that ye may be endued there<g ref="char:EOLhyphen"/>with, and in the Fear of God, and Authority of his Powerful Truth discountenance and endea<g ref="char:EOLhyphen"/>vour
+<pb n="19" facs="tcp:207634:10"/> to keep down in your Chil<g ref="char:EOLhyphen"/>dren and Servants that Spirit, which is not of God, and that would elevate their Minds above his Fear, and would draw them into the Love of the World, and the things thereof, which are not of God. For in the World is the <hi>Lust of the Eye, the Lust of the Flesh, and Pride of Life,</hi> which <hi>Youth</hi> are too Inclinable to follow. And <hi>Friends,</hi> do not spend any of that Substance God hath blessed you with, and made you Stewards of, to gratifie that in your Children or Servants which ye have known the Judg<g ref="char:EOLhyphen"/>ments of God for in your selves; But you, that God hath given Children to, be Careful to Train them up in the Admonition of the Lord, and in the way, in which they should go; that they may not depart from it, when they are old: Neither Countenance them
+<pb n="20" facs="tcp:207634:11"/> in any thing, which is unbecoming the Plainness and Simplicity of that Precious and Holy Truth, God Al<g ref="char:EOLhyphen"/>mighty hath blessed us with the Knowledge of; and in which, as we live and abide, we enjoy Peace, and partake of Blessings from him.</p>
+            <p>And <hi>Dear Friends,</hi> Let us stir up, encourage and give opportu<g ref="char:EOLhyphen"/>nity to our <hi>Children</hi> and <hi>Servants,</hi> to frequent our publick <hi>Meetings</hi> for the Worship of God in due time, to wait upon the Lord, that they may know a growing in the Truth. And all ye, that are <hi>Ser<g ref="char:EOLhyphen"/>vants,</hi> and make Profession of Truth with us, we Exhort and Intreat you in the Love of God, that ye demean your selves in your respective Places in all things, as becomes our Holy Profession, and in that <hi>Plainness</hi> and <hi>Humility,</hi> which Truth leads into, both in your <hi>Words</hi> and <hi>Apparel;</hi> and ex<g ref="char:EOLhyphen"/>ceed
+<pb n="21" facs="tcp:207634:11"/> not the Bounds of Truth, nor let your Minds out after those things, that do not profit to God<g ref="char:EOLhyphen"/>ward: Neither let your Adorn<g ref="char:EOLhyphen"/>ing be the outward Adorning, but that of a meek and quiet Spi<g ref="char:EOLhyphen"/>rit. And be Careful to discharge a good Conscience towards God and Men in all things, and not be <hi>Eye-Servants,</hi> nor <hi>Busy-bodies,</hi> nor <hi>Tale-bearers,</hi> nor <hi>Tattlers,</hi> nor <hi>Back biters,</hi> and keep out of Strife and Contention, and <hi>let your Words be few and savory;</hi> and with Singleness of Heart, as unto the Lord, discharge your selves in your Service and Places. And as ye are Careful and Faith<g ref="char:EOLhyphen"/>ful in that which is anothers, ye will procure Love in others to you. For when the righteous Principle of Light and Truth in all is an<g ref="char:EOLhyphen"/>swer'd, the Doctrine of Christ our Saviour in all things adorned,
+<pb n="22" facs="tcp:207634:12"/> then the Peace and Blessing of God is enjoyed. And then there will be Encouragement for you, when ye become <hi>Masters</hi> or <hi>Heads</hi> of <hi>Fa<g ref="char:EOLhyphen"/>milies,</hi> and Parents of Children, to persevere in Faithfulness unto the Lord, and to be Careful to wait upon God, and pray to him, that ye may be preserved in the Love and Obedience to Truth, and endued with Power and Wis<g ref="char:EOLhyphen"/>dom to discharge your respective Duties, and answer this our Chri<g ref="char:EOLhyphen"/>stian <hi>Advice,</hi> avoiding the things cautioned against, and following those Exhorted unto; that so we may, as Children of one Father and Household of Faith, grow up more and more unto a Habita<g ref="char:EOLhyphen"/>tion for God in and through his holy Spirit.</p>
+            <p>And all <hi>Friends,</hi> both High and Low, Rich and Poor, Young and
+<pb n="23" facs="tcp:207634:12"/> Old, Live in <hi>Love,</hi> live in <hi>Meek<g ref="char:EOLhyphen"/>ness,</hi> live in <hi>Humility,</hi> live in <hi>Cha<g ref="char:EOLhyphen"/>stity,</hi> live in <hi>Self-Denial,</hi> live in the <hi>Cross</hi> of our Lord <hi>Jesus Christ;</hi> and in that ye will have Peace, in that ye will receive Strength to walk blameless in the Sight of God and Man.</p>
+         </div>
+         <trailer>THE END.</trailer>
+      </back>
+   </text>
+</TEI>
